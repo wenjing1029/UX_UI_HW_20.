@@ -7,21 +7,66 @@
     background-color: #0C3D3A ;
     text-align: center;
     font-family:'Courier New', Courier, monospace;
-    padding-bottom: 10px;
-    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 40px;
     padding-right: 20px;
     padding-left: 20px;
-
+}
+.h1 {
     
 }
-.problemsolution {
-    text-align: left;
-    padding-left: 200px;
+.AboutTheProject {
+    text-align: center;
+    font-size:larger;
+    padding: 30px;
+}
+
+.projectimg img {
+    padding: 50px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.userpersonas {
+    background-color: #0C3D3A ;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#upimg {
+    padding: 100px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+ }
+ .problemstatement {
+    background-color: #0C3D3A ;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.h6 {
+    text-align: center;
+    padding: 50px;
+    }
+.ps img {
+    width: 100%;
+    height: 300px
+}
+.valueproposition {
+    padding: 50px;
+    text-align: center;
+    padding-left: 100px;
     padding-right: 100px;
-    margin-right: 55%;
+}
     
-}
-.Role {
-    text-align: right;
-
-}
