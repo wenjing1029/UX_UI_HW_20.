@@ -1,0 +1,27 @@
+#nav{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.title {
+    background-color: #0C3D3A ;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    
+}
+.problemsolution {
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 100px;
+    margin-right: 55%;
+    
+}
+.Role {
+    text-align: right;
+
+}
